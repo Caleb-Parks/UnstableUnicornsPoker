@@ -1,0 +1,13 @@
+label,image,value,item-count,item-key
+Blue,/img/pieces/chips/blue.svg,5,0,blue
+Red,/img/pieces/chips/red.svg,1,600,red
+White,/img/pieces/chips/white.svg,,0,white
+Green,/img/pieces/chips/green.svg,,0,green
+Black,/img/pieces/chips/black.svg,,0,black
+Purple,/img/pieces/chips/purple.svg,,0,purple
+Yellow,/img/pieces/chips/yellow.svg,,0,yellow
+Orange,/img/pieces/chips/orange.svg,,0,orange
+Peach,/img/pieces/chips/peach.svg,,0,peach
+Teal,/img/pieces/chips/teal.svg,,0,teal
+Pink,/img/pieces/chips/pink.svg,,0,pink
+Brown,/img/pieces/chips/brown.svg,,0,brown
